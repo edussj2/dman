@@ -1,0 +1,151 @@
+{
+  "configVersion": 1,
+  "timestamp": 1637627696328,
+  "index": "https://edussj2.github.io/dman/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://edussj2.github.io/dman/favicon.ico",
+        "https://edussj2.github.io/dman/index.html",
+        "https://edussj2.github.io/dman/main.1013255ae1446347bae4.js",
+        "https://edussj2.github.io/dman/manifest.webmanifest",
+        "https://edussj2.github.io/dman/polyfills.5851e6ac6a8655461f26.js",
+        "https://edussj2.github.io/dman/runtime.7b63b9fd40098a2e8207.js",
+        "https://edussj2.github.io/dman/scripts.50e230b75dab18b15c70.js",
+        "https://edussj2.github.io/dman/styles.fa940d2ccd63e5968510.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://edussj2.github.io/dman/assets/css/styles.css",
+        "https://edussj2.github.io/dman/assets/icons/icon-128x128.png",
+        "https://edussj2.github.io/dman/assets/icons/icon-144x144.png",
+        "https://edussj2.github.io/dman/assets/icons/icon-152x152.png",
+        "https://edussj2.github.io/dman/assets/icons/icon-192x192.png",
+        "https://edussj2.github.io/dman/assets/icons/icon-384x384.png",
+        "https://edussj2.github.io/dman/assets/icons/icon-512x512.png",
+        "https://edussj2.github.io/dman/assets/icons/icon-72x72.png",
+        "https://edussj2.github.io/dman/assets/icons/icon-96x96.png",
+        "https://edussj2.github.io/dman/assets/img/bg-footer.png",
+        "https://edussj2.github.io/dman/assets/img/casa02.jpg",
+        "https://edussj2.github.io/dman/assets/img/casa03.jpg",
+        "https://edussj2.github.io/dman/assets/img/imagen-login.png",
+        "https://edussj2.github.io/dman/assets/img/imagen-login.svg",
+        "https://edussj2.github.io/dman/assets/img/imagen-login2.svg",
+        "https://edussj2.github.io/dman/assets/img/img_page.png",
+        "https://edussj2.github.io/dman/assets/img/loader.gif",
+        "https://edussj2.github.io/dman/assets/img/logo.png",
+        "https://edussj2.github.io/dman/assets/img/logo2.png",
+        "https://edussj2.github.io/dman/assets/img/mapa.PNG",
+        "https://edussj2.github.io/dman/assets/img/nosotros.jpg",
+        "https://edussj2.github.io/dman/assets/img/nosotros2.jpg",
+        "https://edussj2.github.io/dman/assets/img/servicio1.png",
+        "https://edussj2.github.io/dman/assets/img/servicio2.png",
+        "https://edussj2.github.io/dman/assets/img/servicio3.png",
+        "https://edussj2.github.io/dman/assets/img/servicio4.png",
+        "https://edussj2.github.io/dman/assets/img/servicio5.png",
+        "https://edussj2.github.io/dman/assets/img/servicio6.png",
+        "https://edussj2.github.io/dman/assets/img/servicio7.png",
+        "https://edussj2.github.io/dman/assets/img/servicio8.png",
+        "https://edussj2.github.io/dman/fa-brands-400.2285773e6b4b172f07d9.woff",
+        "https://edussj2.github.io/dman/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+        "https://edussj2.github.io/dman/fa-brands-400.527940b104eb2ea366c8.ttf",
+        "https://edussj2.github.io/dman/fa-brands-400.d878b0a6a1144760244f.woff2",
+        "https://edussj2.github.io/dman/fa-regular-400.4689f52cc96215721344.svg",
+        "https://edussj2.github.io/dman/fa-regular-400.491974d108fe4002b2aa.ttf",
+        "https://edussj2.github.io/dman/fa-regular-400.7a3337626410ca2f4071.woff2",
+        "https://edussj2.github.io/dman/fa-regular-400.bb58e57c48a3e911f15f.woff",
+        "https://edussj2.github.io/dman/fa-solid-900.1551f4f60c37af51121f.woff2",
+        "https://edussj2.github.io/dman/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+        "https://edussj2.github.io/dman/fa-solid-900.be9ee23c0c6390141475.ttf",
+        "https://edussj2.github.io/dman/fa-solid-900.eeccf4f66002c6f2ba24.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://edussj2.github.io/dman/assets/css/styles.css": "147b1b1fdde35832626063414e4f66135af3afc6",
+    "https://edussj2.github.io/dman/assets/icons/icon-128x128.png": "452094383eec9fba14fe1997c939d795ecc6cc00",
+    "https://edussj2.github.io/dman/assets/icons/icon-144x144.png": "2fd1cbe8bd1841be8babb91d515d1974610c32f0",
+    "https://edussj2.github.io/dman/assets/icons/icon-152x152.png": "c7cd8d026c363037a55e5038d497ea343e1cd4ee",
+    "https://edussj2.github.io/dman/assets/icons/icon-192x192.png": "588ac56c7b73167cafc6514a1279f65e9069af06",
+    "https://edussj2.github.io/dman/assets/icons/icon-384x384.png": "c53479dc9b5aa4f7948d42d71e771dc3bf0472fe",
+    "https://edussj2.github.io/dman/assets/icons/icon-512x512.png": "bd42c6a836d520257ff01c2f514b5c2bae787f14",
+    "https://edussj2.github.io/dman/assets/icons/icon-72x72.png": "d06f056f139ef5b2a02520f48e154905f1a6ec53",
+    "https://edussj2.github.io/dman/assets/icons/icon-96x96.png": "c8f06a297f20cdcefeb5513f8a88bb0b0caa1988",
+    "https://edussj2.github.io/dman/assets/img/bg-footer.png": "503c8fcc02a6e760830c40dfd4e98a395c8c358e",
+    "https://edussj2.github.io/dman/assets/img/casa02.jpg": "4545e66ebfb61ed8abeded902df9bb1c5028749c",
+    "https://edussj2.github.io/dman/assets/img/casa03.jpg": "93c97886568717cfc9aa22eec89e9d24cd2bc91c",
+    "https://edussj2.github.io/dman/assets/img/imagen-login.png": "be5bed9beddfd3c2bf6885bfa7e45dab8894f91a",
+    "https://edussj2.github.io/dman/assets/img/imagen-login.svg": "6dafb7799b62f0d8786be36873a24b99c30c45a2",
+    "https://edussj2.github.io/dman/assets/img/imagen-login2.svg": "bc03c8d7903e004ecf89332016f4bcc328f274b0",
+    "https://edussj2.github.io/dman/assets/img/img_page.png": "5ec5f551e0aae7125022bb892bca28be5fec7bfa",
+    "https://edussj2.github.io/dman/assets/img/loader.gif": "795d687eaf14bb7d06f66e2fcf99f656a553af32",
+    "https://edussj2.github.io/dman/assets/img/logo.png": "71c718320bbffcf5f7ffe4c057d915c9535fb150",
+    "https://edussj2.github.io/dman/assets/img/logo2.png": "df5887fc3bcac810af3ad8efc7900e34aaeb2740",
+    "https://edussj2.github.io/dman/assets/img/mapa.PNG": "dedaad88406a48b0799c389b849f65fb44fac82b",
+    "https://edussj2.github.io/dman/assets/img/nosotros.jpg": "c4cbc53dbef4f22901810a3042c54f62f900f164",
+    "https://edussj2.github.io/dman/assets/img/nosotros2.jpg": "c7fb90fd728ba4b36534700a1eb79805e6e737be",
+    "https://edussj2.github.io/dman/assets/img/servicio1.png": "14ff5290c16a2219439b978c530203a8d10ed03b",
+    "https://edussj2.github.io/dman/assets/img/servicio2.png": "55325566725434437f357259ad607598bddd19f4",
+    "https://edussj2.github.io/dman/assets/img/servicio3.png": "cc141fc776e2e3b44c7fa78dcc4b1b712bc622f8",
+    "https://edussj2.github.io/dman/assets/img/servicio4.png": "f08141ef6922f2d8cf144b9e8dfbaa959f20854b",
+    "https://edussj2.github.io/dman/assets/img/servicio5.png": "e23b95289024ba5b9c9c287202f8fe3dbaae4c22",
+    "https://edussj2.github.io/dman/assets/img/servicio6.png": "077f5641bf9e12be6250153078e7af7a90bc65a7",
+    "https://edussj2.github.io/dman/assets/img/servicio7.png": "9fb3e0bd2988e605b756025c1e4df83cd075cebe",
+    "https://edussj2.github.io/dman/assets/img/servicio8.png": "1fbff2a502ed959cdad9d3b8499cd4e50a1029f2",
+    "https://edussj2.github.io/dman/fa-brands-400.2285773e6b4b172f07d9.woff": "1e1f02bfa89e179fe2dd1383273b8812aa873418",
+    "https://edussj2.github.io/dman/fa-brands-400.2f517e09eb2ca6650ff5.svg": "907bfbbe295332750575900984a00136de0f0e90",
+    "https://edussj2.github.io/dman/fa-brands-400.527940b104eb2ea366c8.ttf": "8ab907083fecaaa2a9ec93b27f884ad74573705c",
+    "https://edussj2.github.io/dman/fa-brands-400.d878b0a6a1144760244f.woff2": "0613c7ebba55ee47ef302c0f7766324692f899a7",
+    "https://edussj2.github.io/dman/fa-regular-400.4689f52cc96215721344.svg": "326e1d8f0b23f6df95cd6784fdf330bc6414ecd0",
+    "https://edussj2.github.io/dman/fa-regular-400.491974d108fe4002b2aa.ttf": "c34acd6818df6db6be41a2e331886765d601f2eb",
+    "https://edussj2.github.io/dman/fa-regular-400.7a3337626410ca2f4071.woff2": "13517529affa39e2585c591acae6dc336b6aa917",
+    "https://edussj2.github.io/dman/fa-regular-400.bb58e57c48a3e911f15f.woff": "3ad4f4e4b1fb3edee3d4ba25e6cdfed2f0b88a54",
+    "https://edussj2.github.io/dman/fa-solid-900.1551f4f60c37af51121f.woff2": "0ccb2c814a7e4ca12c4778821633809cb0361eaa",
+    "https://edussj2.github.io/dman/fa-solid-900.7a8b4f130182d19a2d7c.svg": "d92687d30fa0d43f9ae71009398507bf813a6875",
+    "https://edussj2.github.io/dman/fa-solid-900.be9ee23c0c6390141475.ttf": "eb8914f6b1797b45ee0883e6089d92695d9f9441",
+    "https://edussj2.github.io/dman/fa-solid-900.eeccf4f66002c6f2ba24.woff": "a22acd7697f36e7d4cc31a853c70e776eac54bb1",
+    "https://edussj2.github.io/dman/favicon.ico": "4ee4c439c2ad31f617514a997dbd8dc1e0b5993b",
+    "https://edussj2.github.io/dman/index.html": "184082e514c7b00961a2f5e5c09044ac1c885365",
+    "https://edussj2.github.io/dman/main.1013255ae1446347bae4.js": "ced8578edeb79a488c4b9bce1ecc1e87b8ca2a59",
+    "https://edussj2.github.io/dman/manifest.webmanifest": "d4a73c47bf537b8545e177216d7b2d6b7f04704c",
+    "https://edussj2.github.io/dman/polyfills.5851e6ac6a8655461f26.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
+    "https://edussj2.github.io/dman/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://edussj2.github.io/dman/scripts.50e230b75dab18b15c70.js": "f977d8048b20721e2a4b3d2ee3b8566ac3e773ef",
+    "https://edussj2.github.io/dman/styles.fa940d2ccd63e5968510.css": "2ec4c32478128d34955095d34922788a922a2efc"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
